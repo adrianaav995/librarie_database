@@ -68,7 +68,7 @@ bookstore-database/
 ## How to Run
 
 1. Install MySQL and open a MySQL-compatible SQL editor such as MySQL Workbench.
-2. Execute `1_create_and_insert.sql` to:
+2. Execute `1_create_insert.sql` to:
    - Create the database
    - Create all tables
    - Define relationships and constraints
