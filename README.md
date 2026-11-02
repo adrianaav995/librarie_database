@@ -58,7 +58,7 @@ The project demonstrates the use of:
 
 \- Subqueries, including correlated subqueries
 
-\- Date functions (`YEAR)
+\- Date functions (`YEAR`)
 
 \- Data manipulation (`UPDATE`)
 
