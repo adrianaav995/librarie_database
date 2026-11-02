@@ -21,7 +21,7 @@ The database consists of the following tables:
 
 Relationships between tables are implemented using primary keys and foreign key constraints.
 
-The Entity-Relationship Diagram (ERD) is available in the `diagrams/` directory.
+The Entity-Relationship Diagram (ERD) is available in the `diagram/` directory.
 
 ---
 
@@ -52,7 +52,7 @@ bookstore-database/
 ├── sql/
 │   ├── 1_create_and_insert.sql
 │   └── 2_queries.sql
-├── diagrams/
+├── diagram/
 │   └── erd.png
 └── screenshots/
     ├── 1_database_creation.png
