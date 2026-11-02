@@ -63,9 +63,6 @@ bookstore-database/
     ├── query2.png
     └── ...
 ```
-
-> **Note:** Adjust file and folder names if they differ from the actual repository structure.
-
 ---
 
 ## How to Run
